@@ -32,3 +32,6 @@ __pycache__/
 *.dpkg-*
 *.exe
 *.ZILESAVE
+
+#Ignore settings
+settings.py
