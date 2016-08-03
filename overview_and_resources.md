@@ -13,6 +13,9 @@
 
 ## Resources
 
+#### Overview of MIMIC dataset
+	http://www.nature.com/articles/sdata201635
+
 #### Current web visualization of data 
 (NOTE: very similar, but not exact same dataset i.e. MIMIC 2 vs 3):
 	http://hdsl.uwaterloo.ca/visualization-tool/
