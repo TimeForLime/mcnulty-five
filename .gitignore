@@ -1,13 +1,8 @@
 
 # Working Files - not ready to be shared
-sameh*
-sameh/
-*sameh*
-
-data*
-data/
-*data*
-*.csv
+local*
+local/
+*local*
 
 #Ipython Notebook
 .ipynb_checkpoints
