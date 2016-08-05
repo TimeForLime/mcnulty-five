@@ -24,6 +24,9 @@ pause it (CTRL+Z)
 disown it so that it won't be closed when you close your shell (disown -h %jobid)
 resume the job in the background (bg %jobid)
 
+- Approximate # of Rows
+	SELECT reltuples AS approximate_row_count FROM pg_class WHERE relname = 'tbl';
+
 - Largest database size
 
 	SELECT d.datname AS Name,  pg_catalog.pg_get_userbyid(d.datdba) AS Owner,
@@ -54,3 +57,7 @@ FROM pg_catalog.pg_database d
 	   FROM pg_class
 	   WHERE relpages >= 8
 	   ORDER BY relpages DESC;
+
+
+Jupyter to access Cynthia's EC2 POWER box
+https://40.118.252.155:8888/login?next=%2Ftree
