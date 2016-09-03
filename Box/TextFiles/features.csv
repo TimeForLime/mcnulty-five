@@ -1,0 +1,122 @@
+subject_id
+icustay_id
+gender
+admittime
+dischtime
+los_hospital
+age
+ethnicity
+admission_type
+hospital_expire_flag
+hospstay_seq
+first_hosp_stay
+intime
+outtime
+los_icu
+icustay_seq
+first_icu_stay
+Sys_BP
+PEEP
+BIPAP
+BSA
+CVP
+Cardiac Index
+Code Status
+Cuff_Pressure
+ETT
+GCS_Eyes
+Flow_By
+GCS Total
+Heart_Rate
+Heart Rhythm
+Resp_Pressure
+Insp_Pressure
+TCPCV
+Minute_Volume
+GCS_Motor
+Mean_BP
+O2_From_Ventilator
+O2_Flow
+PAP [Systolic]
+PCV
+PCWP
+Plateau_Pressure
+Pressure_Support
+Resp_Rate
+Resp_Rate
+SVR
+Tidal_Volume
+SpO2
+Speech_Intubated
+Spon RR (Mech.)
+Spon. Vt (L) (Mech.)
+Temperature C (calc)
+Temperature F (calc)
+Ventilator Mode
+GCS_Verbal
+Waveform-Vent
+Admit Wt
+ALT
+AST
+Alkaline_Phosphate
+Arterial CO2(Calc)
+Arterial PaCO2
+Arterial PaO2
+Arterial_pH
+Bicarbonate
+D-Dimer (0-500)
+Fibrinogen (150-400)
+Glucose
+Hematocrit
+Hemoglobin
+LDH
+RBC
+SaO2
+Troponin
+Vancomycin/Random
+Admit Ht
+Readmission
+Marital Status
+Religion
+Pain Present
+Service Type
+Art.pH
+BUN
+Readmit <48 hrs
+Albumin
+Calcium
+Chloride
+Creatinine
+INR
+Lactic_Acid
+Magnesium
+Phosphorous
+Potassium
+Total_Bili
+WBC
+APRV_Pressure
+Dias_BP
+PAP [Diastolic]
+Central Venous Pressure
+Arterial O2 pressure
+Arterial O2 Saturation
+Arterial CO2 Pressure
+Code Status
+Temp
+O2 Saturation Pulseoxymetry Alarm - High
+O2 Saturation Pulseoxymetry Alarm - Low
+Fi_O2
+Spont Vt
+Spont RR
+PSV_level
+Dialysis patient
+CK
+TCO2 (calc) Arterial
+Admission Weight (Kg)
+Sodium
+Chloride (whole blood)
+Height
+Anion gap
+CPK/MB
+Platelets
+Fibrinogen
