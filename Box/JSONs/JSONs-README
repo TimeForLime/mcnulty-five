@@ -1,0 +1,3 @@
+JSONs:
+-item_to_name.json: Keys to convert from itemID to a human-readable item category. This also grouping multiple IDs.
+-items_to_item.json Keys to convert redundant items to a single itemID per grouping. 
